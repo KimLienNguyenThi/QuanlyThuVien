@@ -1,6 +1,10 @@
 package view;
 
+
 ///////////////////////Nguyen thanh luan nhánh luan2
+
+///////////////////// Nguyen Thanh Luan nhánh luan
+
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
